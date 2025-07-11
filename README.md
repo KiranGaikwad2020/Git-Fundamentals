@@ -28,5 +28,17 @@
 - Syntax: **$git push**
 - Here user will be directed to enter **user github credentails** to push the updates to remote github repository.
 
-## Personal Access Token Creation Process to use it as password while perofming github user authenitcation
+## 6. Personal Access Token Creation Process to use it as password while perofming github user authenitcation
+
+- Go to Settings ---> Developer Settings ---> Personal Access Token
+  
+![Settings](images/passwordCreationProcess-1.png)
+
+![Developer Settings](images/passwordCreationProcess-2.png)
+
+![Personal Access Token](images/passwordCreationProcess-3.png)
+  
+- Click on Generate new token (classic)
+
+![Token Create](images/passwordCreationProcess-4.png)
 
