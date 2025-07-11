@@ -27,3 +27,6 @@
 ## 5. git push: It lets you move a local updates to remote github repository, which serves as a convenient way to publish data to remote github repository. 
 - Syntax: **$git push**
 - Here user will be directed to enter **user github credentails** to push the updates to remote github repository.
+
+## Personal Access Token Creation Process to use it as password while perofming github user authenitcation
+
