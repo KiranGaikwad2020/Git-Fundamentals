@@ -42,3 +42,4 @@
 
 ![Token Create](images/passwordCreationProcess-4.png)
 
+- Click on Generate Token Button present in bottom after filling all the required information.
